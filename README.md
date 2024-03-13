@@ -1,14 +1,14 @@
-#💫 About Me:
+💫 #About Me:
 
 I'm a recent graduate with a passion for designing and creating robust applications and graphics.
 
-#🚀 What I'm Up To 
+🚀 #What I'm Up To 
 
 -  🛠️ Learning the basics of python by creating simple applications
 -  💻 Learning how to create 3d models using Blender
 -  🧑🏽‍💻 Creating a full stack portfolio website for a client using Javascript, Node and Firebase
 
-#💻 Tech Stack
+💻 #Tech Stack
 
 Languages: ![Static Badge](https://img.shields.io/badge/Javascript%20-%20%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=%23323330) ![Static Badge](https://img.shields.io/badge/html5%20-%20%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/sass%20-%20%23CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Static Badge](https://img.shields.io/badge/python%20-%20%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
