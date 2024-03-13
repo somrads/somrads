@@ -25,3 +25,4 @@ I'm a recent graduate with a passion for designing and creating robust applicati
 - ![Node.js](https://img.shields.io/badge/node.js%20-%20%23669C4F?style=for-the-badge&logo=node.js&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/postgresql%20-%20%23375781?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Docker](https://img.shields.io/badge/docker%20-%20%234A92E3?style=for-the-badge&logo=docker&logoColor=white)
+- ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure%20-%20%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
